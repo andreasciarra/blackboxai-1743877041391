@@ -1,0 +1,4 @@
+Questo è un file di esempio nella cartella dati.
+Contiene alcune informazioni di test per il chatbot.
+Il chatbot può leggere questo file e utilizzarlo per rispondere alle domande degli utenti.
+Questo è solo un esempio di come il sistema funziona con i file nella cartella dati.
