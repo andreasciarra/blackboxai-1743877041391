@@ -1,0 +1,12 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "A minimalist AI chatbot that reads from a data folder",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
